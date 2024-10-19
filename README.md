@@ -28,6 +28,8 @@ Tune the model’s parameters and evaluate its accuracy.
 Our model reveals which campaign settings yield the highest conversions for Each Hospital Type 
 Adjust budgets, bidding strategies, and creative elements accordingly.
 
+* Case Explanation - Medium Facility
+For Example Medium Facility shows decent results with Flyer Campiagns and each dollar spend return 4 dollars on average. Sales Contact 2 is highly effective followed by Sales Contact 1 and Sales Contact 3. Else all other strategy shows no impact can be dropped to save cost.
 
 ## Contributing
 Feel free to add your own magical insights! Whether it’s refining the model, expanding the dataset, or creating visualizations, join our coven.
