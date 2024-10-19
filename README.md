@@ -13,14 +13,14 @@ Clone this repository to your local spellbook:
 git clone https://github.com/your-username/marketing-campaign-ml.git
 
 ## Dependencies:
-Our Analysis requires Python 3.7+ and the following magical libraries:
+Our Analysis requires Python 3.7+ and the following magical libraries: numpy, scipy, pandas, seaborn, matplotlib. 
 
 ## Insights and Spells
 Data Preparation:
 Our crystal ball (dataset) contains historical campaign data—impressions, clicks, conversions, and more.
 Cleanse the data, handle missing values, and transform it into a format our model can understand.
 
-Regression Model:
+## Regression Model:
 i’ve chosen the mystical Linear Regression spellbook to predict campaign performance.
 Tune the model’s parameters and evaluate its accuracy.
 
